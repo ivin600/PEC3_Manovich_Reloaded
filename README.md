@@ -5,7 +5,7 @@
 **Fecha:** Mayo 2026  
 
 ---
-
+![Portada](https://i.ibb.co/nsf8pT4B/1.png)
 ## Planteamiento e Introducción
 
 Si leemos a Lev Manovich (2013) en *El software toma el mando*, vemos que la revolución digital no consistió simplemente en pasar lo analógico a ceros y unos. El ordenador se transformó en un "metamedio", un entorno donde los medios clásicos pierden sus fronteras. Para esta PEC, he querido huir de los ejemplos puramente teóricos para analizar la hibridación en dos herramientas que uso en mi día a día. 
